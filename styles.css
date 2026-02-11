@@ -1,8 +1,7 @@
-body {
+/* body {
   background-color: #09090b;
   color: wheat;
-  /* padding-left: 30%;
-  padding-right: 30%; */
+
   padding-left: 10%;
   padding-right: 10%;
 
@@ -16,15 +15,10 @@ body {
 }
 
 .name {
-  /* background: repeating-conic-gradient(#000 0 25%, #fff 0 50%);
-  background-size: 50px 50px; */
-
   border-style: solid;
   border-width: 1px;
   border-color: #1c1c1f;
-  /* border-color: #333; */
 
-  /* padding: 2em; */
   background-image: radial-gradient(
     circle,
     rgba(255, 255, 255, 0.1) 1px,
@@ -48,15 +42,6 @@ body {
 }
 
 .personal-details {
-  /* display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  */
-
-  /* display: grid;
-  grid-template-columns: auto auto auto; */
-
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
@@ -127,10 +112,6 @@ a {
   gap: 2em;
 }
 
-.about {
-  /* padding-top : 1em; */
-}
-
 .about h1 {
   margin: 0;
   padding-left: 0.75em;
@@ -149,7 +130,6 @@ a {
 .experience h3 {
   padding-left: 1em;
   margin: 0;
-  /* margin-top:1em; */
 }
 
 .experience h1 {
@@ -176,4 +156,4 @@ li {
     padding-left: 25%;
     padding-right: 25%;
   }
-}
+} */
